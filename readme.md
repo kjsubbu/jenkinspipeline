@@ -30,4 +30,8 @@ Add a Jenkins Build Job As per the below screenshot and build it:
 ![Jenkins build job](https://github.com/kjsubbu/jenkinspipeline/blob/master/images/jenkins02.png)
 ![Jenkins build job](https://github.com/kjsubbu/jenkinspipeline/blob/master/images/jenkins03.png)
 ![Jenkins build job](https://github.com/kjsubbu/jenkinspipeline/blob/master/images/jenkins04.png)
+<<<<<<< HEAD
 ![Jenkins build job](https://github.com/kjsubbu/jenkinspipeline/blob/master/images/jenkins05.png)
+=======
+![Jenkins build job](https://github.com/kjsubbu/jenkinspipeline/blob/master/images/jenkins05.png)
+>>>>>>> 7f658b673609be689b4352792ab9dc9a49fdfc4c
